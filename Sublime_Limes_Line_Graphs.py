@@ -1,7 +1,8 @@
 # Sublime Limes' Line Graphs Project 
 
-# In this project, I will act as a data analyst for an online lime retailer called Sublime Limes. People all over the world can use this product to get the freshest, best-quality limes delivered to their door. 
-# One of the product managers at Sublime Limes would like to gain insight into the customers and their sales habits. Using Matplotlib, I’ll create some different line graphs (or maybe, lime graphs) to communicate this information effectively.
+# In this project, I will act as a data analyst for an online lime retailer called Sublime Limes. People all over the world can use this product to get the freshest, best-quality
+# limes delivered to their door. One of the product managers at Sublime Limes would like to gain insight into the customers and their sales habits. Using Matplotlib, I’ll create 
+# some different line graphs (or maybe, lime graphs) to communicate this information effectively.
 
 # 1. Create a figure of width 12 and height 8.
 
@@ -22,7 +23,8 @@ plt.figure(figsize=(12,8))
 
 # 2. I will be making two charts in one figure, laid out side-by-side. In other words, the figure will have one row and two columns.
 
-# Write the command to create the left subplot (the one that would correspond to the plot with a star in our example figure), and I will save this subplot in a variable called ax1.
+# Write the command to create the left subplot (the one that would correspond to the plot with a star in our example figure), and I will save this subplot in a variable called
+# ax1.
 
 ax1 = plt.subplot(1,2,1)
 
@@ -63,7 +65,8 @@ ax1.set_xticklabels(months)
 
 # Plotting multiple lime species
 
-# 9. In the subplot on the right, we are going to plot three lines on the same set of axes. The x-values for all three lines will correspond to the months, so we can use the list of x_values we used for the last plot.
+# 9. In the subplot on the right, we are going to plot three lines on the same set of axes. The x-values for all three lines will correspond to the months, so we can use the list
+# of x_values we used for the last plot.
 
 # On one plot, create the three lines:
 
@@ -111,7 +114,6 @@ plt.savefig("sublime_limes_line_graph.png")
 
 # All code together:
 
-import codecademylib
 from matplotlib import pyplot as plt
 
 months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
@@ -126,6 +128,8 @@ blood_limes_per_month = [75.0, 75.0, 76.0, 71.0, 74.0, 77.0, 69.0, 80.0, 63.0, 6
 
 # create your figure here
 plt.figure(figsize=(12,8))
+
+# first line graph here:
 ax1 = plt.subplot(1,2,1)
 x_values = range(len(months))
 plt.plot(x_values, visits_per_month, marker='o')
@@ -135,6 +139,7 @@ ax1.set_xticks(x_values)
 ax1.set_xticklabels(months)
 plt.title('Page visits per Month')
 
+# second line graph here:
 ax2 = plt.subplot(1,2,2)
 plt.plot(x_values, key_limes_per_month, color= 'lime', marker='o')
 plt.plot(x_values, persian_limes_per_month,color='orange', marker='o')
@@ -151,5 +156,5 @@ plt.show()
 plt.subplot_adjust(top=0.95, wspace=0.35)
 plt.savefig("sublime_limes_line_graph.png")
 
-# In this project I used Matplotlib, a Python library which helps data rpofessinal to render any kind of data, to create two line graphs from a given data set. Not only did I render the data, but 
-# I used effective labels, legents and formating to maximise readability and presentation.
+# In this project, I used Matplotlib, a Python library that helps data professionals to render any kind of data, to create two line graphs from a given data set. Not only did I 
+# render the data, but I used effective labels, legends and formating to maximise readability and presentation.
