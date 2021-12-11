@@ -13,7 +13,7 @@ The concepts covered include:
 - Changing tick labels and positions 
 - Saving what you’ve made
 
-In the second project,called Bar Chart with Error, I've experimented with a bunch of different plot types used in Matplotlib and how to best use them to find patterns or trends in a new data set, adding plotting abilities to my repertoire, including:
+In the second project,called Recreating_Graphs_using_Matplotlib, I've experimented with a bunch of different plot types used in Matplotlib and how to best use them to find patterns or trends in a new data set, adding plotting abilities to my repertoire, including:
 - How to compare categories of data with bar graphs
 - Add error bars to graphs
 - Use fill_between to display shaded error on line graphs
