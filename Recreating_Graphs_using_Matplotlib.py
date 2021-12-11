@@ -1,3 +1,5 @@
+# Recreating_Graphs_using_Matplotlib
+
 # Bar Chart with Error
 
 # 1. First, create a figure of width 10 and height 8.
