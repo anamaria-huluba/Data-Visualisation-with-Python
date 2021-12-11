@@ -22,3 +22,6 @@ In the second project,called Recreating_Graphs_using_Matplotlib, I've experiment
 - Create and format pie charts to compare proportional datasets
 - Analyze frequency data using histograms, including multiple histograms on the same plot
 - Normalize histograms
+
+
+
