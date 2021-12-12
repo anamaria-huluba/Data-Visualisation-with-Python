@@ -24,6 +24,6 @@ In the second project,called Recreating_Graphs_using_Matplotlib, I've experiment
 - Normalize histograms
 
 
-![image](https://user-images.githubusercontent.com/82522372/145703583-f202c9b6-e7e7-4188-a3d7-7072dc5346a0.png)
+
 
 
