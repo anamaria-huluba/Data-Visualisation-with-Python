@@ -24,6 +24,8 @@ The first two projects, Sublime Limes' Line Graphs and Recreating_Graphs_using_M
 
 For the third project, Visualizing World Cup Data With Seaborn, I used Seaborn as an add-on to Matplotlib that allowed me to style graphs more professionally and create sleeker graphics that take them to the next level. The World Cups dataset show all information about all the World Cups in the history, while the World Cup Matches dataset shows all the results from the matches contested as part of the cups.
 
+![avg_world_cup_goals](https://user-images.githubusercontent.com/82522372/146227849-8c269cfb-0815-4262-ba93-cf396caab54f.png)
+
 The data comes from Kaggle, https://www.kaggle.com/abecklas/fifa-world-cup.
 
 
