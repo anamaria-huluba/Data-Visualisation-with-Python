@@ -14,13 +14,12 @@ The first two projects, Sublime Limes' Line Graphs and Recreating_Graphs_using_M
 - Create and format pie charts to compare proportional datasets
 - Analyze frequency data using histograms, including multiple histograms on the same plot
 - Normalize histograms
-
-![my_bar_chart](https://user-images.githubusercontent.com/82522372/146218830-3f7229ad-f958-423d-9037-6792b06a2385.png)
-
 ![Line-grath](https://user-images.githubusercontent.com/82522372/146219955-39013b02-f3dd-4bef-ba69-9e93441c169b.png)
-
-
-
+![barchart_with_error](https://user-images.githubusercontent.com/82522372/146222972-98a5cd85-c3a3-4797-ad7a-a46c4274d160.png)
+![3side_by_side_bar](https://user-images.githubusercontent.com/82522372/146223401-dadbf238-d32a-49d7-9408-45830ac4c60c.png)
+![4stacked_bars](https://user-images.githubusercontent.com/82522372/146223467-b23f7c69-fb33-496a-8ec0-a5b80d6df44c.png)
+![6Labeled_pie_chart](https://user-images.githubusercontent.com/82522372/146223812-23d916ca-7e83-4aa9-aa06-402ca6e1ecd2.png)
+![7Line_with_shaded_error](https://user-images.githubusercontent.com/82522372/146223838-2c198e1e-b4b7-42e4-b7ac-1b7a8bd1c2f3.png)
 
 For the third project, Visualizing World Cup Data With Seaborn, I used Seaborn as an add-on to Matplotlib that allowed me to style graphs more professionally and create sleeker graphics that take them to the next level. The World Cups dataset show all information about all the World Cups in the history, while the World Cup Matches dataset shows all the results from the matches contested as part of the cups.
 
