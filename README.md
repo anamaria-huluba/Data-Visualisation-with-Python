@@ -17,6 +17,8 @@ The first two projects, Sublime Limes' Line Graphs and Recreating_Graphs_using_M
 
 ![my_bar_chart](https://user-images.githubusercontent.com/82522372/146218830-3f7229ad-f958-423d-9037-6792b06a2385.png)
 
+![Line-grath](https://user-images.githubusercontent.com/82522372/146219955-39013b02-f3dd-4bef-ba69-9e93441c169b.png)
+
 
 
 
