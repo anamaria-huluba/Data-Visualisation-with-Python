@@ -18,6 +18,7 @@ The first two projects, Sublime Limes' Line Graphs and Recreating_Graphs_using_M
 ![barchart_with_error](https://user-images.githubusercontent.com/82522372/146222972-98a5cd85-c3a3-4797-ad7a-a46c4274d160.png)
 ![3side_by_side_bar](https://user-images.githubusercontent.com/82522372/146223401-dadbf238-d32a-49d7-9408-45830ac4c60c.png)
 ![4stacked_bars](https://user-images.githubusercontent.com/82522372/146223467-b23f7c69-fb33-496a-8ec0-a5b80d6df44c.png)
+![5two_histograms_on_a_plot](https://user-images.githubusercontent.com/82522372/146225078-bb0ddcc1-4639-49ae-94e3-51333baabd1b.png)
 ![6Labeled_pie_chart](https://user-images.githubusercontent.com/82522372/146223812-23d916ca-7e83-4aa9-aa06-402ca6e1ecd2.png)
 ![7Line_with_shaded_error](https://user-images.githubusercontent.com/82522372/146223838-2c198e1e-b4b7-42e4-b7ac-1b7a8bd1c2f3.png)
 
