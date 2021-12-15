@@ -1,8 +1,8 @@
 # Sublime Limes' Line Graphs Project 
 
-# In this project, I will act as a data analyst for an online lime retailer called Sublime Limes. People all over the world can use this product to get the freshest, best-quality
-# limes delivered to their door. One of the product managers at Sublime Limes would like to gain insight into the customers and their sales habits. Using Matplotlib, I’ll create 
-# some different line graphs (or maybe, lime graphs) to communicate this information effectively.
+# In this project, I will act as a data analyst for an online lime retailer called Sublime Limes. People all over the world can use this product to get the freshest, 
+# best-quality limes delivered to their door. One of the product managers at Sublime Limes would like to gain insight into the customers and their sales habits. Using Matplotlib,
+# I’ll create some different line graphs (or maybe, lime graphs) to communicate this information effectively.
 
 # 1. Create a figure of width 12 and height 8.
 
@@ -65,8 +65,8 @@ ax1.set_xticklabels(months)
 
 # Plotting multiple lime species
 
-# 9. In the subplot on the right, we are going to plot three lines on the same set of axes. The x-values for all three lines will correspond to the months, so we can use the list
-# of x_values we used for the last plot.
+# 9. In the subplot on the right, we are going to plot three lines on the same set of axes. The x-values for all three lines will correspond to the months, so we can use the 
+# list of x_values we used for the last plot.
 
 # On one plot, create the three lines:
 
