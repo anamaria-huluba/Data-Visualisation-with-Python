@@ -322,7 +322,6 @@ plt.show()
 plt.savefig('my_histogram.png')
 
 
-
 # LABELED PIE CHART
 
 # Now, we are going to look at the chart called pie.png. This displays what students think the hardest topic covered throughout your math course is.
