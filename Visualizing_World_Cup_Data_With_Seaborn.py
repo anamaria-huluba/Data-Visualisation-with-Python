@@ -5,9 +5,10 @@
 
 # A little primer on the Fifa World Cup:
 
-# The FIFA World Cup, or simply the World Cup, is an international fútbol competition where 32 countries qualify to send teams made up of the best players from that nation to compete against each other for the World Cup championship.
-# The World Cup championship has been awarded every four years since the inaugural tournament in 1930, except in 1942 and 1946 when it was not held because of the Second World War.
-# The current format of the tournament involves 32 teams competing for the title at venues within the host nation over a period of one month.
+# The FIFA World Cup, or simply the World Cup, is an international fútbol competition where 32 countries qualify to send teams made up of the best players from that nation to 
+# compete against each other for the World Cup championship. The World Cup championship has been awarded every four years since the inaugural tournament in 1930, except in 1942
+# and 1946 when it was not held because of the Second World War.The current format of the tournament involves 32 teams competing for the title at venues within the host nation 
+# over a period of one month.
 
 # Visualize
 
@@ -18,9 +19,7 @@ import pandas as pd
 import seaborn as sns
 
 # 2. Inspect the raw CSV files that you will be using in this project by selecting them in the file navigator.
-
 # 3. Load WorldCupMatches.csv into a DataFrame called df. This will allow you to eventually plot the DataFrame with Seaborn.
-
 # 4. It is usually a good idea to check any new DataFrame to make sure the results are as expected.
 
 # Inspect the DataFrame using .head(). Make sure to use print() to wrap any output you want to inspect.
@@ -28,7 +27,8 @@ import seaborn as sns
 df = pd.read_csv('WorldCupMatches.csv')
 print(df.head())
 
-# 5. The data in WorldCupMatches.csv has the goals scored in each match broken up by goals for the home team and goals for the away team. We want to visualize the total number of goals scored in each match.
+# 5. The data in WorldCupMatches.csv has the goals scored in each match broken up by goals for the home team and goals for the away team. We want to visualize the total number 
+# of goals scored in each match.
 
 # Create a new column in df named Total Goals, and set it equal to the sum of the columns Home Team Goals and Away Team Goals.
 
